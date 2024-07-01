@@ -9,6 +9,7 @@ const App = () => {
 			<section className="padding">Services</section>
 			<section className="padding">Special Offer</section>
 			<section className="padding">Special Offer</section>
+			<section className="padding">Special Offer</section>
 		</main>
 	);
 };

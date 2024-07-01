@@ -10,6 +10,7 @@ const App = () => {
 			<section className="padding">Special Offer</section>
 			<section className="padding">Special Offer</section>
 			<section className="padding">Special Offer</section>
+			<section className="padding">Special Offer</section>
 		</main>
 	);
 };
